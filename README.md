@@ -1,0 +1,2 @@
+# swork
+swift project
